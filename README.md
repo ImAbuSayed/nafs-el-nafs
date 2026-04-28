@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل تعالي بين يدي
+> دقات القلب تنادي هيا إلي
+> عيونك نار وفيها أذوب
+> عناقك سحر وهذا المكتوب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
